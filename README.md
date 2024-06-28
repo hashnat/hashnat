@@ -1,9 +1,10 @@
 <h1 align="left">About Me👋</h1>
 <p align="left">Hi! I'm Natasya Kwandou, a data enthusiast!  </p>
+<img align="right" alt="Coding" width="400" src="https://intellipaat.com/blog/wp-content/uploads/2015/07/Big-Data.gif">
 <p align= "left">📫 You can reach me through: natasya.kwandou56@gmail.com </p>
 
 
-<img align="right" alt="Coding" width="400" src="https://intellipaat.com/blog/wp-content/uploads/2015/07/Big-Data.gif">
+
 
 
 <h3 align="left"> Let's connect!🌐:</h3>
